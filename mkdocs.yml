@@ -1,7 +1,24 @@
 site_name: Chathumal Madhuranga
+
 theme:
   name: 'material'
-  #custom_dir: mkdocs-material/material
+  logo: images/logo.png
+  features:
+      - header.autohide
+
+  palette:
+    - scheme: default
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - scheme: slate
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
 
   # 404 page
   static_templates:
@@ -14,8 +31,41 @@ theme:
   # Default values, taken from mkdocs_theme.yml
   language: en
   font:
-    text: Roboto
-    code: Roboto Mono
-  favicon: assets/favicon.png
-  icon:
-    logo: logo
+    text: Google Sans
+    code: Regular
+  favicon: images/logo.png
+
+markdown_extensions:
+  - attr_list
+
+# Page tree
+nav:
+  - Introduction: index.md
+  - About me: aboutme.md
+  - Resume: resume.md 
+  - Porfolio:
+    - Disaster Management: porfolio/disaster.md
+    - Environment Monitoring: porfolio/environment.md
+    - Surveying and Mapping: porfolio/surveying.md
+    - Capacity Building: porfolio/capacitybuilding.md
+  - Projects Involved: projects.md
+  - Research & Publications: research.md
+  - Technical Blog: blog.md
+  - Contact: contact.md
+  
+
+
+
+
+# Options
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/chathumal93
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/chathumal93
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/chathumal-madhuranga-440a4779/
+
+# Copyright
+copyright: 'Copyright &copy; 2021 - 2022 Chathumal Maduranga'
