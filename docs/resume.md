@@ -15,7 +15,7 @@
 ### Professional Experience
 >
 
-Research Associate – Geoinfomatics Center - Asian Institue of Technology
+Research Associate – Geoinfomatics Center - Asian Institute of Technology
 
 (2018 Aug 13 to Present – Thailand)
 
@@ -31,7 +31,7 @@ Research Associate – Geoinfomatics Center - Asian Institue of Technology
 
 >- Conduct training sessions on satellite remote sensing applications and UAV mapping.
 
-Intern – Geoinfomatics Center - Asian Institue of Technology
+Intern – Geoinfomatics Center - Asian Institute of Technology
 
 2018 Jan 13 to April – Thailand
 
