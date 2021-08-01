@@ -44,10 +44,11 @@ nav:
   - About me: aboutme.md
   - Resume: resume.md 
   - Porfolio:
-    - Disaster Management: porfolio/disaster.md
-    - Environment Monitoring: porfolio/environment.md
-    - Surveying and Mapping: porfolio/surveying.md
-    - Capacity Building: porfolio/capacitybuilding.md
+    - Disaster Response: portfolio/disaster.md
+    - Environment Monitoring: portfolio/environment.md
+    - Surveying and Mapping: portfolio/surveying.md
+    - Capacity Building: portfolio/capacitybuilding.md
+    - Extra Activities: portfolio/extra.md
   - Projects Involved: projects.md
   - Research & Publications: research.md
   - Technical Blog: blog.md
