@@ -17,7 +17,7 @@ Links for sample products:
 
 
 ### Project Manangement for International Disaster Charter (IDC)
-<p><img src="/images/idc_web.png" width="500" height="440">
+<p><img src="/images/idc_web.PNG" width="500" height="440">
 When a major disaster occurs, the Asian Disaster Reduction Center (ADRC) can escalate a Sentinel Asia emergency observation request to the International Disaster Charter (IDC). A project manager (PM), such as the GIC/AIT, will be nominated by relevant national agencies or international organizations. The PM's role is to ensure effective communication between the data providers or partner agencies (PA), value-added companies/resellers, and authorized users (AU). The PM will coordinate the activation while ensuring the products generation are according to the user's needs and expectations. 
 During my work at AIT, I was nominated for two PM roles for two major natural disasters, and I have successfully managed the work and the communication between the Value adders, Space agencies, and End-members. 
 </p>
