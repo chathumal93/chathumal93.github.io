@@ -2,7 +2,7 @@
 
 ### Support for Emergency Assistance on Rehabilitation and Reconstruction in Central Sulawesi, Indonesia
 > This project enhances the capacity of The Ministry of Public Works and Housing (MPWH) and the provincial and local government in monitoring reconstruction in Central Sulawesi Province, Indonesia, which was hit by a massive natural disaster resulting from the earthquake and tsunami on 28 September 2018. The module will complement the MPWH information system in providing information on critical infrastructure reconstruction, building and ground movements, and other information needed to support reconstruction monitoring.[Client: Asian Development Bank (ADB)].
-[**link**](https://pgeo.ait.ac.th/maps/)
+[**link**](https://pgeo.ait.ac.th/maps/){target=_blank}
 
 >**Activities Involved**
 
@@ -12,7 +12,7 @@
 
 ### Sentinel Asia
 > Sentinel Asia is an international cooperation platform that brings together space agencies, disaster management agencies and international agencies on a voluntary basis to combat natural disasters in the Asia-Pacific region by using remote sensing and Web-GIS technologies. [Client: Japan Aerospace Exploration Agency (JAXA)].
-[**link**](https://sentinel-asia.org/)
+[**link**](https://sentinel-asia.org/){target=_blank}
 
 >**Activities Involved**
 
@@ -33,7 +33,7 @@
 
 ### Drone based Highway Construction Monitoring and Mapping
 > Department of Highways (DOH), Thailand is the dedicated government agency for highway network in Thailand. DOH has initiated a project in Rama 2 road expanding from 9th Km to 21st km of the road and DOH considers providing up to date maps of the construction which will be helpful for the general public and also planning prospective. Geoinformatics Centre of Asian Institute of Technology (AIT) collaborate with DOH in this regard.[Client: Department of Highways (DOH)]
-[**link**](https://gicait.maps.arcgis.com/apps/Cascade/index.html?appid=c3f3a4fcd27445eabb2452233bc3e3ae)
+[**link**](https://gicait.maps.arcgis.com/apps/Cascade/index.html?appid=c3f3a4fcd27445eabb2452233bc3e3ae){target=_blank}
 
 >**Activities Involved**
 
