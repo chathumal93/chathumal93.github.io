@@ -6,8 +6,8 @@ img {
 </style>
 
 ### Emergency Mapping
-<p><img src="/gifs/vaps.gif" width="500" height="440">
-As the primary data analysis node (P-DAN of Sentinel Asia, the Geoinformatics center of AIT has been effectively engaged in disaster response using Remote Sensing and web-GIS technology.
+<p><img src="/gifs/vaps.gif" width="450" height="380">
+As the primary data analysis node (P-DAN) of Sentinel Asia, the Geoinformatics center of AIT has been effectively engaged in disaster response using Remote Sensing and web-GIS technology.
 In this project, I was mainly involved in satellite data processing and Value-added products generation for a range of disaster types(Eg. Flood, Earthquake, GLOF, Forest fire, Oil spill, etc.. ). SAR and Optical data analysis, Interferometric analysis, change detection, and offset tracking are some of the methods used in the products generation process. 
 </p>
 Links for sample products:
@@ -33,5 +33,7 @@ This platform gives the user effective visualization of the disaster extent with
 ArcGIS Online, ArcGIS Enterprise Sites, and ArcGIS API for Python were used in this process to create Web-maps, Web-Apps, and sites.
 
 <p>Access the Disaster Response Portal <a href="https://portal.geoinfo.ait.ac.th/portal/apps/sites/#/gic-ait-disaster-response-portal" target="_blank"> Here!</a>.
+</p>
+<p>
 <img src="/gifs/disaster_portal_act.gif" width="800" height="440"> 
 </p>

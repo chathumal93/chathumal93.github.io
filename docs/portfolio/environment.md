@@ -6,7 +6,7 @@ img {
 </style>
 
 ### Ground Stability Monitoring
-<p><img src="/gifs/adb.gif" width="400" height="340">
+<p><img src="/gifs/adbg.gif" width="400" height="340">
 I'm currently engaged in a project, which aims to monitor ground stability and reconstruction process in the Palu region, Indonesia, where there was a massive earthquake in 2018 September.  In this case, the ground motion information comes from the Persistence Scatter(PS)-InSAR products based on Sentinel-1 data processed from Geohazard Exploitation Platform (GEP). Using this ground motion data, I estimated the stability of infrastructures such as roads, buildings, and canals for monitoring purposes in the region.
 <p>
 Project: Support for Emergency Assistance on Rehabilitation and Reconstruction in Central Sulawesi, Indonesia.
