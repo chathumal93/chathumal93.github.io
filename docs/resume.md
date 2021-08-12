@@ -52,7 +52,7 @@ Programming Languages
 
 Surveying and Mapping 
 >- Land surveying including drone mapping and data processing
->- Surveying Instruments: GNSS, Total Station, Digital Level
+>- Surveying Instruments: GNSS recievers(NetR9,ublox etc..), Total Station, Digital Level, 
 
 ### Trainings and Conferences
 >- Online training on Geohazard Thematic Exploitation Platform (GEP) (2021), conducted by Terradue.
