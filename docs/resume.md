@@ -56,21 +56,23 @@ Surveying and Mapping
 
 ### Trainings and Conferences
 >- Online training on Geohazard Thematic Exploitation Platform (GEP) (2021), conducted by Terradue.
->- Special training and training course on Civil Infrastructures (2019) conducted by IIS, The University of Tokyo, and AIT.
->- International Charter Project Management Training (2018) conducted by the Geoinformatics Center of the Asian Institute of Technology, Thailand.
+>- Special training and training course on Civil Infrastructures (2019) conducted by IIS, The University of Tokyo, and Asian Institute of Technology, Thailand.
+>- International Charter Project Management Training (2018) conducted by the Geoinformatics Center - AIT
 >- Training program on Global Navigation Satellite Systems (2018) conducted by CSIS, S4D, ICG, and AIT.
 >- GNSS Summer School (2018) conducted by the Tokyo University of Marine Science and Technology, Japan.
 >- Training program on "Developing Leadership Qualities and Positive Thinking" (2013) conducted by the ministry of higher education Sri Lanka.
 
 ### Teaching Experience
->- Training on Drones for Mapping and Applications (Aug 2018 - present)
-The focus of this training is to provide all the essential knowledge to use drone-based mapping technology according
+>- Earth Observations services for water and food security planning in Indonesia (Nov 2021)-(Organized by ESA,   ADB, BRIN and LAPAN) 
+ : Conducted a knowledge-sharing session on infrastructure stability mapping based on InSAR mapping technology.
+>- Training on Drones for Mapping and Applications (Aug 2018 - 2020)
+ : Conducted trainings to provide all the essential knowledge to use drone-based mapping technology according
 to the client-based requirement.
 >- Flood Extraction Using SAR Data (ALOS 2 PALSAR 2) (2019)
-Conducted a workshop for new data analyzing nodes in the 7th Joint Project Team Meeting for Sentinel Asia STEP-3
+ : Conducted a workshop for new data analyzing nodes in the 7th Joint Project Team Meeting for Sentinel Asia STEP-3
 (JPTM2019), Bangkok.
 >- Essential Remote Sensing and GIS (2019)
-Conducted a training program for Intern students from the College of Agricultural Engineering and Technology (JAU)
+ : Conducted a training program for students from the College of Agricultural Engineering and Technology (JAU)
 India.
 
 ### Memberships and Committees

@@ -5,7 +5,12 @@ img {
 }
 </style>
 
-### Training on Drones for Surveying and Mapping (Aug 2018 - present)
+### Earth Observations services for water and food security planning in Indonesia (Nov 2021)
+<p><img src="/images/adb-training.png" width="350" height="250">
+This training program was Jointly organized by ESA (European Space Agency), Asian Development Bank (ADB), BRIN (National Research and Innovation Agency - Indonesia), and LAPAN (National Institute of Aeronautics and Space-Indonesia) to share the knowledge on Earth observation science for water and food security in Indonesia. I delivered a knowledge-sharing session on infrastructure stability mapping over Central Sulawesi based on InSAR mapping technology in this training program.
+</p>
+
+### Training on Drones for Surveying and Mapping (Aug 2018 - 2020)
 <p><img src="/images/drone.jpg" width="350" height="250">
 Geoinformatics Center-AIT has conducted several training programs on Drones for Mapping and their Applications. The focus is to provide all the essential knowledge to use drone-based mapping technology according to the client-based requirement.
 I have been involved in these training programs as a resource person and engaged with giving the theoretical and practical background of flight planning and product generation according to the user requirement.
