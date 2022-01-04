@@ -19,11 +19,13 @@ Links for sample products:
 ### Project Manangement for International Disaster Charter (IDC)
 <p><img src="/images/idc_web.PNG" width="500" height="440">
 When a major disaster occurs, the Asian Disaster Reduction Center (ADRC) can escalate a Sentinel Asia emergency observation request to the International Disaster Charter (IDC). A project manager (PM), such as the GIC/AIT, will be nominated by relevant national agencies or international organizations. The PM's role is to ensure effective communication between the data providers or partner agencies (PA), value-added companies/resellers, and authorized users (AU). The PM will coordinate the activation while ensuring the products generation are according to the user's needs and expectations. 
-During my work at AIT, I was nominated for two PM roles for two major natural disasters, and I have successfully managed the work and the communication between the Value adders, Space agencies, and End-members. 
+During my work at AIT, I was nominated for two PM roles for four major natural disasters, and I have successfully managed the work and the communication between the Value adders, Space agencies, and End-members. 
 </p>
 Links for Activations:
-><p>Flood in Philippines [Call-686] - 16 Nov 2020<a href="https://disasterscharter.org/web/guest/activations/-/article/flood-large-in-philippines-activation-686-" target="_blank"> Link</a>.</p>
-><p>Flood and Landslide in Indonesia [Call-638]- 07 JANUARY 2020<a href="https://disasterscharter.org/web/guest/activations/-/article/flood-flash-in-indonesia-activation-638-" target="_blank"> Link</a>.</p>
+><p>Eruption of Mount Semeru volcano in Indonesia [Activation Id-739] - 07 Dec 2021<a href="https://disasterscharter.org/web/guest/activations/-/article/volcano-in-indonesia-activation-739-" target="_blank"> Link</a>.</p>
+><p>Flooding in Sri Lanka [Activation Id-737] - 12 Nov 2021<a href="https://disasterscharter.org/web/guest/activations/-/article/flood-large-in-sri-lanka-activation-737-" target="_blank"> Link</a>.</p>
+><p>Flood in Philippines [Activation Id-686] - 16 Nov 2020<a href="https://disasterscharter.org/web/guest/activations/-/article/flood-large-in-philippines-activation-686-" target="_blank"> Link</a>.</p>
+><p>Flood and Landslide in Indonesia [Activation Id-638]- 07 Jan 2020<a href="https://disasterscharter.org/web/guest/activations/-/article/flood-flash-in-indonesia-activation-638-" target="_blank"> Link</a>.</p>
 
 ### Web-GIS for Disaster Response
 <p>
