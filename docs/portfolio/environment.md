@@ -23,12 +23,6 @@ Radar backscatter, texture parameters, vegetation indexes, and topographic featu
 <p>Access the case study<a href="https://github.com/chathumal93/Remote-Sensing-for-Biomass-Estimation" target="_blank"> Here!</a>.</p>
 </p>
 
-### PM 2.5 Analysis over Bangkok
-<p><img src="/images/pm25.png" width="400" height="340">
-GCOM-C satellite conducts long-term and continuous global observation and data collection to contribute to surface and atmospheric measurements. Aerosol optical thickness is one of its products to identify the atmospheric changes in terms of aerosols. I have carried out a pilot study to find the suitability of GCOM-C aerosol optical thickness (AOT) products in air pollution identification. In this task, I converted raw data into AOT products, Identified PM 2.5 level variation in Bangkok from 2018 to 2020, and found spatial relationships between the burning of open land around Bangkok for aerosol thickness in the same region.
-
-<p>Check out more infomation <a href="https://github.com/chathumal93/GCOM-C-Satellite-Image-Analysis" target="_blank"> Here!</a>.</p>
-</p>
 
 ### Crop Health Monitoring 
 <p><img src="/images/n2.png" width="400" height="300">

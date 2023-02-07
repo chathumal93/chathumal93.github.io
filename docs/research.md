@@ -1,5 +1,8 @@
 # Reseach and Publications
 
+>-	**Weththasinghe Arachchige**, C. , Nashrrullah, S. ,Hazarika, M., Arvelyna, Y.(2022).**Detection of Building Stability in Central Sulawesi, Indonesia Using Persistent Scatterer Interferometry(PSI)**. (Living Planet Symposium 2022, Bonn ,poster session)
+[**link**](https://www.researchgate.net/publication/366848551_Detection_of_Building_Stability_in_Central_Sulawesi_Indonesia_Using_Persistent_Scatterer_Interferometry_PSI?channel=doi&linkId=63b52e55a03100368a508a24&showFulltext=true){target=_blank}
+
 >-	**Weththasinghe Arachchige**, C. , Nashrrullah, S. ,Hazarika, M., Gunasekara, K.(2019).**Estimation of Forest Above-Ground Biomass Using Random Forest Algorithm Based on ALOS PALSAR and Landsat 5TM Imageries**. (ACRS 2019)
 [**link**](https://www.researchgate.net/publication/339139739_Estimation_of_Forest_Above-Ground_Biomass_Using_Random_Forest_Algorithm_Based_on_ALOS_PALSAR_and_Landsat_5TM_Imageries){target=_blank}
 
