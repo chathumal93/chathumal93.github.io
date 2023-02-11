@@ -7,8 +7,6 @@ img {
 
 # About me
 <p><img src="/images/profile.png" width="250" height="180">
-I am currently working as a <b>Research Associate</b> at Geoinformatics Center, <b>Asian Institute of Technology(AIT)</b>, Thailand. My work in AIT includes providing geospatial solutions for projects and applications related to disaster management, natural resources and urban planning.
- 
-Furthermore, I conduct drone-based mapping, data processing and GNSS surveys.
+As a <b>Research Associate</b> at the Geoinformatics Center of the <b>Asian Institute of Technology</b> in Thailand, I am responsible for providing comprehensive geospatial solutions for a variety of projects and applications within the fields of disaster management, natural resources management, and urban planning. In addition to this, I am committed to enhancing the capacity of individuals and organizations through the delivery of innovative training programs and workshops on drone mapping, remote sensing, and geographic information systems.
 </p>
 
