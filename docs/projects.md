@@ -1,53 +1,52 @@
 # Pojects Involved
 
 ### Support for Emergency Assistance on Rehabilitation and Reconstruction in Central Sulawesi, Indonesia
-> This project enhances the capacity of The Ministry of Public Works and Housing (MPWH) and the provincial and local government in monitoring reconstruction in Central Sulawesi Province, Indonesia, which was hit by a massive natural disaster resulting from the earthquake and tsunami on 28 September 2018. The module will complement the MPWH information system in providing information on critical infrastructure reconstruction, building and ground movements, and other information needed to support reconstruction monitoring.[Client: Asian Development Bank (ADB)].
+> The project aims to augment the capacity of The Ministry of Public Works and Housing (MPWH), as well as provincial and local governments in Central Sulawesi Province, Indonesia, to monitor the ongoing reconstruction efforts following a devastating natural calamity caused by an earthquake and tsunami on September 28, 2018. The implementation of this module is intended to supplement the existing information system of MPWH by furnishing critical data on infrastructure reconstruction, building and ground movements, and other relevant information that would aid in monitoring the progress of the reconstruction efforts. It is important to note that this initiative is commissioned by the Asian Development Bank (ADB).
 [**link**](https://pgeo.ait.ac.th/maps/){target=_blank}
 
 >**Activities Involved**
 
->- Monitor reconstruction using SAR Interferometric and VHR optical data analysis.
+>- Monitoring the reconstruction progress through the use of SAR Interferometric and VHR optical data analysis
 
->- GIS analysis for Building,Canal and Road level stability layer creation.
+>- Conducting GIS analysis to create stability layers for Buildings, Canals, and Roads
 
 ### Sentinel Asia
-> Sentinel Asia is an international cooperation platform that brings together space agencies, disaster management agencies and international agencies on a voluntary basis to combat natural disasters in the Asia-Pacific region by using remote sensing and Web-GIS technologies. [Client: Japan Aerospace Exploration Agency (JAXA)].
+> Sentinel Asia is an international collaborative platform that facilitates the convergence of space agencies, disaster management agencies, and international organizations on a voluntary basis to address natural disasters in the Asia-Pacific region. This is accomplished through the utilization of remote sensing and Web-GIS technologies. The initiative is led by the Japan Aerospace Exploration Agency (JAXA).
 [**link**](https://sentinel-asia.org/){target=_blank}
 
 >**Activities Involved**
 
->- Project Manager (PM) activities of IDC (International Disaster Charter)
+>- Undertaking the responsibilities of Project Manager (PM) for the International Disaster Charter (IDC) activations
 
->- Generation, provision, and evaluation of Value-added products for major natural disasters
+>- Generating, providing, and assessing the value-added products related to significant natural disasters
 
->- Remote Sensing and GIS analysis on earth-observation data
+>- Performing Remote Sensing and GIS analyses on earth-observation data
 
 ### Strengthening Agro-climatic Monitoring and Information Systems (SAMIS) - Lao PDR
-> The project “Strengthening Agro-climatic Monitoring and Information Systems (SAMIS) to improve adaptation to climate change and food security in LAO PDR” is increasing decision-making and planning capacity for the agricultural sector at national and decentralized levels in Lao PDR. Geoinformatics Center (GIC) of Asian Institute of Technology (AIT), Thailand collaborate with FAO to implement several training programs related to GIS and Satellite Image Analysis (Remote Sensing) and their application for the national, provincial, and local staff of Department of Meteorology and Hydrology (DMH) within the Ministry of Natural Resources and Environment (MONRE), and Department of Agricultural Land Management (DALaM) within the Ministry of Agriculture and Forestry (MAF).[Client: Food and Agriculture Organization (FAO)]
+> The project, "Strengthening Agro-climatic Monitoring and Information Systems (SAMIS) to improve adaptation to climate change and food security in Lao PDR," aims to enhance decision-making and planning capabilities within the agricultural sector at both national and decentralized levels in Lao PDR. To achieve this goal, the Geoinformatics Center (GIC) of the Asian Institute of Technology (AIT) in Thailand is collaborating with the Food and Agriculture Organization (FAO) to implement a range of training programs focused on GIS and Satellite Image Analysis (Remote Sensing). These programs are designed to equip national, provincial, and local staff of the Department of Meteorology and Hydrology (DMH) within the Ministry of Natural Resources and Environment (MONRE), and the Department of Agricultural Land Management (DALaM) within the Ministry of Agriculture and Forestry (MAF) with the necessary skills and knowledge to effectively utilize these tools in their respective roles.
 
 >**Activities Performed**
 
->- Forest biomass estimation using SAR and LiDAR data to materialize for capacity building programs
-
->- Conducted training on "Forest mapping and biomass estimation" using satellite remote sensing data
+>- Conduct capacity building programs for the estimation of forest biomass through the utilization of Synthetic Aperture Radar (SAR) and Light Detection and Ranging (LiDAR) data
 
 ### Drone based Highway Construction Monitoring and Mapping
-> Department of Highways (DOH), Thailand is the dedicated government agency for highway network in Thailand. DOH has initiated a project in Rama 2 road expanding from 9th Km to 21st km of the road and DOH considers providing up to date maps of the construction which will be helpful for the general public and also planning prospective. Geoinformatics Centre of Asian Institute of Technology (AIT) collaborate with DOH in this regard.[Client: Department of Highways (DOH)]
+> The Department of Highways (DOH) in Thailand is a government agency responsible for managing the country's highway network. As part of its efforts to improve infrastructure, the DOH has undertaken a project to expand the Rama 2 road between the 9th and 21st kilometers. To assist with this endeavor, the DOH is seeking to provide up-to-date maps of the construction, which will be valuable for the general public and for future planning purposes. To achieve this goal, the DOH has engaged in a collaborative effort with the Geoinformatics Centre of the Asian Institute of Technology (AIT).
 [**link**](https://gicait.maps.arcgis.com/apps/Cascade/index.html?appid=c3f3a4fcd27445eabb2452233bc3e3ae){target=_blank}
 
 >**Activities Involved**
 
->- Fieldwork, including drone data acquisition and GNSS
+>- Conducting fieldwork, which includes acquiring drone data and using GNSS technology
 
->- Photogrammetric processing and data visualization
+>- Performing photogrammetric processing to transform the collected data into usable information, and creating visual representations of the data for further analysis
+
 
 ### Promotion of Countermeasures Against Marine Plastic Litter in Southeast Asia and India
-> The UN Environment Programme (UNEP) and the Government of Japan initiated a project on Promotion of Countermeasures Against Marine Plastic Litter in Southeast Asia and India, focusing on developing a model for plastic leakage and monitor leakage hotspots along the Ganges and Mekong rivers.[Client: United Nations Environment Programme (UNEP)]
+> The United Nations Environment Programme (UNEP) in collaboration with the Government of Japan has launched a project aimed at promoting countermeasures against marine plastic litter in Southeast Asia and India. The project focuses on the development of a model for plastic leakage and monitoring of leakage hotspots along the Ganges and Mekong rivers.
 
 >**Activities Involved**
 
->- Drone data collection, processing, and visualizing for plastic identiﬁcation analysis
+>- Collection of drone data for the purpose of identifying plastic, followed by the processing and visualization of the acquired data
 
->- GIS analysis on Ortho-mosaic products
+>- Conducting GIS analysis on the ortho-mosaic products
 
->- Mapping Process Documentation
+>- Documentation of the mapping process

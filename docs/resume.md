@@ -29,7 +29,7 @@ Research Associate – Geoinfomatics Center - Asian Institute of Technology
 
 >- Survey and map using land surveying, GNSS, and drone technology.
 
->- Conduct training sessions on satellite remote sensing applications and UAV mapping.
+>- Conduct training  on satellite remote sensing applications and UAV mapping.
 
 Intern – Geoinfomatics Center - Asian Institute of Technology
 

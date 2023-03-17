@@ -6,29 +6,24 @@ img {
 </style>
 ### Geodetic Triangulation
 <p><img src="/images/geotri.jpg" width="250" height="150">
-In my undergraduate program, I contributed to establish a high-accurate control network using the First Order Control Point Network of Sri Lanka. For a comparative study, new controls were observed using both triangulation and the GPS method.
-In this case, we took angle observations from precise theodolites and used them in calculations with the mid-latitude formulae.
-Finally, the network was adjusted using the method of variation of parameters. This task was a practical example for comparing traditional surveying methods with state-of-the-art surveying methods.
+During my undergraduate program, I engaged in establishing a highly-accurate control network utilizing the First Order Control Point Network of Sri Lanka. To conduct a comparative study, we examined new controls employing both triangulation and GPS methods. We obtained angle observations from precise theodolites and applied them in calculations using the mid-latitude formulae. Ultimately, we adjusted the network through the method of variation of parameters. This undertaking served as a practical example in contrasting traditional surveying methodologies with contemporary, state-of-the-art approaches.
 <p>Access the project report<a href="https://www.researchgate.net/publication/332780962_Geodetic_Triangulation-2016" target="_blank"> Here!</a>.</p>
 </p>
 
 ### Drone Mappping + GNSS Surveying
 <p><img src="/images/road01.PNG" width="300" height="240">
-During my work at GIC, I was involved in many drone survey activities for different purposes, including high-resolution ortho-map generation, crop health monitoring, object detection, and construction monitoring.
-Accurate drone map products require additional highly accurate positioning methods such as Realt Time Kinematic, Network RTK, and Precise Point Positioning integrated into the image acquisition process.
-In this case, I have experience in acquiring the RGB/Multispectral sensor data and combine them high accurate positional information.
+During my tenure at the Geoinformatics Center, I actively participated in numerous drone surveying endeavors for diverse applications. These included the creation of high-resolution ortho-maps, crop health monitoring, object detection, and construction monitoring. Additionally, I possess expertise in the acquisition of RGB/Multispectral sensor data, coupled with high-precision positional information, utilizing advanced positioning methods such as Real Time Kinematic, Network RTK, and Precise Point Positioning.
 
 <p>Road Construction Monitoring</p>
 <img src="/images/road02.PNG" width="300" height="240">
-Department of Highways (DOH), Thailand, the dedicated government agency for highway networks in Thailand, initiated a road expansion project in Rama  Rama 2 Highway in Samut Sakhon province. In this project, the Geoinformatics Centre of the Asian Institute of Technology (AIT) collaborated with DOH to provide up-to-date maps of the construction status of the target road. For this task, I engaged with our GIC team to perform real-time kinematic (RTK) surveys to obtain ground control points and integrate them with Drone data to produce highly accurate and high-resolution ortho map products.
+The Department of Highways (DOH) in Thailand is a government agency dedicated to overseeing the country's highway networks. Recently, DOH launched a road expansion project on the Rama 2 Highway in the Samut Sakhon province. To aid in this initiative, the Geoinformatics Centre at the Asian Institute of Technology (AIT) collaborated with DOH to provide the latest maps depicting the construction status of the targeted road. To accomplish this, our GIC team was tasked with conducting real-time kinematic (RTK) surveys to obtain ground control points. These were then integrated with drone data to produce highly accurate and high-resolution ortho map products.
 <p>Access the live maps of this project<a href="https://gicait.maps.arcgis.com/apps/Cascade/index.html?appid=c3f3a4fcd27445eabb2452233bc3e3ae" target="_blank"> Here!</a>.</p>
 </p>
 
 
 ### 3D Modelling
 <p><img src="/gifs/ait3dmod.gif" width="400" height="340">
-During my internship at the Asian Institute of Technology, I contributed to a group project for efficient planning and campus management by producing a campus 3D model.
-In this task, I was involved in Drone data acquisition, processing, and visualization. Data was acquired using a DJI Phantom 3 Drone, and Bentley context capture software was used for the data processing.
+During my tenure as an intern at the Asian Institute of Technology, I had the opportunity to make significant contributions to a group project aimed at enhancing the efficiency of campus management through the development of a cutting-edge 3D model. My responsibilities included undertaking the acquisition, processing, and visualization of data obtained through the use of a DJI Phantom 3 Drone, in conjunction with the advanced Bentley Context Capture software.
 
 <p>Access the live 3D Model<a href="http://www.geoinfo.ait.asia/3d_models/AIT/App/#%2F" target="_blank"> Here!</a>.</p>
 </p>
