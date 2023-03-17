@@ -21,15 +21,13 @@ Research Associate – Geoinfomatics Center - Asian Institute of Technology
 
 >Key Responsibilities
 
->- Perform project management activities for International disaster charter (IDC) activations upon nomination by JAXA Executive Secretariat of IDC.
+>- Satellite based emergency response mapping
 
->- Generation, provision, and evaluation of Value-added products for major natural disasters.
+>- Project management for International Disaster Charter activations 
 
->- Apply Remote sensing and GIS technologies for practical project work.
+>- Training and capacity building for satellite remote sensing applications (Land cover land use mapping, forest and biomass mapping, emergency mapping for disaster response)
 
->- Survey and map using land surveying, GNSS, and drone technology.
-
->- Conduct training  on satellite remote sensing applications and UAV mapping.
+>- Conduct drone surveying and mapping including UAV data processing
 
 Intern – Geoinfomatics Center - Asian Institute of Technology
 
@@ -43,7 +41,7 @@ Intern – Geoinfomatics Center - Asian Institute of Technology
 
 ### Technical Skills
 Remote Sensing and GIS 
->- Disaster Response, Land use/Land cover Mapping, Effective Data Visualization, Integrate Machine Learning for Satellite Remote Sensing Applications.
+>- Disaster Response, Land use/Land cover Mapping, Effective Data Visualization, Machine Learning for Satellite Remote Sensing Applications.
 >-  Remote Sensing and GIS software and tools : SNAP, GMTSAR, ENVI, QGIS, ArcGIS, ArcGIS Online, Google Earth Engine, Pix4D Mapper, Bentley Context Capture
 
 Programming Languages
@@ -65,18 +63,16 @@ Surveying and Mapping
 ### Teaching Experience
 >- Earth Observations services for water and food security planning in Indonesia (Nov 2021)-(Organized by ESA,   ADB, BRIN and LAPAN) 
  : Conducted a knowledge-sharing session on infrastructure stability mapping based on InSAR mapping technology.
->- Training on Drones for Mapping and Applications (Aug 2018 - 2020)
+>- Training on Drones for Mapping and Applications (Aug 2018 - 2023)
  : Conducted trainings to provide all the essential knowledge to use drone-based mapping technology according
 to the client-based requirement.
 >- Flood Extraction Using SAR Data (ALOS 2 PALSAR 2) (2019)
  : Conducted a workshop for new data analyzing nodes in the 7th Joint Project Team Meeting for Sentinel Asia STEP-3
 (JPTM2019), Bangkok.
->- Essential Remote Sensing and GIS (2019)
- : Conducted a training program for students from the College of Agricultural Engineering and Technology (JAU)
-India.
+
 
 ### Memberships and Committees
->- Member of International Working Group on Satellite-based Emergency Mapping (IWG-SEM) (2020 - present)
+>- Member of International Working Group on Satellite-based Emergency Mapping (IWG-SEM) (2020 - 2021)
 >- Member of Sakura Science Club (2018 - present)
 >- Intermediate Mapper - Humanitarian OpenStreetMap Team (2015 – present)
 >- Member of St. John Ambulance Sri Lanka (2005 - 2006)
