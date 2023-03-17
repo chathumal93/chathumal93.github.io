@@ -33,11 +33,11 @@ Intern – Geoinfomatics Center - Asian Institute of Technology
 
 2018 Jan 13 to April – Thailand
 
->- Creation of 3D model for the Asian Institute of technology for efficient planning and campus management. (Data Acquisition and Data processing)
+>- Creation of 3D model for the Asian Institute of technology for efficient planning and campus management
 
->- Mapping nitrogen content of rice field site at Ayutthaya Rice Research Center using a multispectral sensor integrated on consumer-grade UAV.
+>- Engaged in a pilot study to assess the efficacy of UAV multispectral sensors in measuring the nitrogen content of rice plantations
 
->- Involved in developing a low-cost, long rage mapping drone.
+>- Involved in developing a low-cost, long rage mapping drone
 
 ### Technical Skills
 Remote Sensing and GIS 
