@@ -43,7 +43,7 @@ nav:
   - Home: index.md
   - About me: aboutme.md
   - Resume: resume.md 
-  - Porfolio:
+  - Portfolio:
     - Disaster Response: portfolio/disaster.md
     - Environment Monitoring: portfolio/environment.md
     - Surveying and Mapping: portfolio/surveying.md
