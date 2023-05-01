@@ -9,7 +9,7 @@
 ### Education
 | Degree		   | University 	    |Year		    |                                  Research Interest or Thesis                                            |
 |------------------|--------------------|---------------|---------------------------------------------------------------------------------------------------------|
-| B.Sc **Surveying Science** (Specialized in **Photogrammetry and Remote Sensing** )          | Sabaragamuwa University of Sri Lanka				| 2018          |Thesis: **Mapping Land Degradation in Nuwara Eliya District Using Multitemporal Satellite Images and Spectral Mixture Analysis Method.**                   |
+| B.Sc **Surveying Sciences** (Specialized in **Photogrammetry and Remote Sensing** )          | Sabaragamuwa University of Sri Lanka				| 2018          |Thesis: **Mapping Land Degradation in Nuwara Eliya District Using Multitemporal Satellite Images and Spectral Mixture Analysis Method.**                   |
 
 ### Professional Experience
 >
