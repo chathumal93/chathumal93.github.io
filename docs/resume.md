@@ -17,7 +17,7 @@
 
 Research Associate – Geoinfomatics Center - Asian Institute of Technology
 
-(2018 Aug 13 to Present – Thailand)
+(2018 Aug 13 to 2023 April 28 – Thailand)
 
 >Key Responsibilities
 
