@@ -5,7 +5,6 @@
 
 > Date of Birth : 1993/12/28 
 
-> Current Address : 58 Moo 9, Km. 42, Klong Luang, Phatum Thani, 12120, Thailand
 
 ### Education
 | Degree		   | University 	    |Year		    |                                  Research Interest or Thesis                                            |
@@ -17,7 +16,7 @@
 
 Research Associate – Geoinfomatics Center - Asian Institute of Technology
 
-(2018 Aug 13 to 2023 April 28 – Thailand)
+(2018 Aug to 2023 April – Thailand)
 
 >Key Responsibilities
 
@@ -31,7 +30,7 @@ Research Associate – Geoinfomatics Center - Asian Institute of Technology
 
 Intern – Geoinfomatics Center - Asian Institute of Technology
 
-2018 Jan 13 to April – Thailand
+2018 Jan to April – Thailand
 
 >- Creation of 3D model for the Asian Institute of technology for efficient planning and campus management
 
@@ -41,7 +40,7 @@ Intern – Geoinfomatics Center - Asian Institute of Technology
 
 ### Technical Skills
 Remote Sensing and GIS 
->- Disaster Response, Land use/Land cover Mapping, Effective Data Visualization, Machine Learning for Satellite Remote Sensing Applications.
+>- Disaster Response Mapping, Land use/Land cover Mapping, Effective Data Visualization, Machine Learning for Satellite Remote Sensing Applications.
 >-  Remote Sensing and GIS software and tools : SNAP, GMTSAR, ENVI, QGIS, ArcGIS, ArcGIS Online, Google Earth Engine, Pix4D Mapper, Bentley Context Capture
 
 Programming Languages
@@ -50,7 +49,7 @@ Programming Languages
 
 Surveying and Mapping 
 >- Land surveying including drone mapping and data processing
->- Surveying Instruments: GNSS recievers(NetR9,ublox etc..), Total Station, Digital Level, 
+>- Surveying Instruments: GNSS recievers(NetR9,ublox etc..), Total Station, Digital Level
 
 ### Trainings and Conferences
 >- Online training on Geohazard Thematic Exploitation Platform (GEP) (2021), conducted by Terradue.
@@ -63,7 +62,7 @@ Surveying and Mapping
 ### Teaching Experience
 >- Earth Observations services for water and food security planning in Indonesia (Nov 2021)-(Organized by ESA,   ADB, BRIN and LAPAN) 
  : Conducted a knowledge-sharing session on infrastructure stability mapping based on InSAR mapping technology.
->- Training on Drones for Mapping and Applications (Aug 2018 - 2023)
+>- Training on Drones for Mapping and Applications (Aug 2018 - April 2023)
  : Conducted trainings to provide all the essential knowledge to use drone-based mapping technology according
 to the client-based requirement.
 >- Flood Extraction Using SAR Data (ALOS 2 PALSAR 2) (2019)
